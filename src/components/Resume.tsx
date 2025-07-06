@@ -6,30 +6,30 @@ const Resume: React.FC = () => {
     {
       title: 'B.Tech in Computer Science (AI & ML)',
       institution: 'Kalasalingam Academy of Research and Education',
-      period: '2020 — 2024',
+      period: '2021 — 2025',
       description: 'Specialized in Artificial Intelligence and Machine Learning with focus on deep learning, neural networks, and data science applications.',
-      grade: 'CGPA: 8.5/10'
+      grade: 'CGPA: 7.82/10'
     },
     {
       title: 'Higher Secondary Education',
-      institution: 'Sri Chaitanya Junior College',
-      period: '2018 — 2020',
+      institution: 'Narayana Junior College',
+      period: '2019 — 2021',
       description: 'Mathematics, Physics, Chemistry with strong foundation in analytical thinking and problem-solving.',
-      grade: 'Percentage: 92%'
+      grade: 'Percentage: 93%'
     }
   ];
 
   const experience = [
     {
       title: 'AI/ML Intern',
-      company: 'TechCorp Solutions',
+      company: 'xxxxxxx',
       period: '2023 — 2024',
       description: 'Developed machine learning models for predictive analytics, implemented chatbot solutions, and worked on computer vision projects using Python and TensorFlow.',
       achievements: ['Improved model accuracy by 15%', 'Reduced processing time by 30%']
     },
     {
       title: 'Web Development Intern',
-      company: 'Digital Innovations',
+      company: 'xxxxxxxx',
       period: '2022 — 2023',
       description: 'Built responsive web applications using React.js and Node.js, collaborated with design teams to implement user-friendly interfaces.',
       achievements: ['Delivered 5+ projects on time', 'Increased user engagement by 25%']
@@ -39,10 +39,9 @@ const Resume: React.FC = () => {
   const skills = [
     { name: 'Python', level: 90, color: 'from-blue-500 to-blue-600' },
     { name: 'Machine Learning', level: 85, color: 'from-green-500 to-green-600' },
-    { name: 'React.js', level: 80, color: 'from-cyan-500 to-cyan-600' },
     { name: 'Java', level: 75, color: 'from-orange-500 to-orange-600' },
+    { name: 'HTML & CSS', level: 80, color: 'from-cyan-500 to-cyan-600' },
     { name: 'SQL', level: 85, color: 'from-purple-500 to-purple-600' },
-    { name: 'TensorFlow', level: 80, color: 'from-red-500 to-red-600' }
   ];
 
   const certifications = [

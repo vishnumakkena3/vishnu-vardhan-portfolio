@@ -246,7 +246,7 @@ const Contact: React.FC = () => {
         <div className="h-64 bg-gray-700/30 flex items-center justify-center">
           <div className="text-center">
             <MapPin className="text-orange-400 mx-auto mb-2" size={32} />
-            <p className="text-gray-400">Interactive map would be displayed here</p>
+            <p className="text-gray-400">Chinnapavani,</p>
             <p className="text-gray-500 text-sm">Andhra Pradesh, India</p>
           </div>
         </div>

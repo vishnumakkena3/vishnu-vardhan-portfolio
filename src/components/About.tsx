@@ -18,13 +18,13 @@ const About: React.FC = () => {
     {
       icon: Database,
       title: 'Programming',
-      description: 'Writing efficient code in Python, Java, C and integrating with databases.',
+      description: 'Writing efficient code in Python, Java and integrating with databases.',
       color: 'from-green-500 to-emerald-500'
     },
     {
       icon: Camera,
-      title: 'Photography',
-      description: 'Creating high-quality photos of any category at a professional level.',
+      title: 'E-Sports',
+      description: 'Professional player at BGMI(battle Grounds Mobile India), COD(Call Of Duty). Played many professional tournments',
       color: 'from-orange-500 to-red-500'
     }
   ];
@@ -68,7 +68,7 @@ const About: React.FC = () => {
           <p>
             During my academic journey, I worked on various projects including Spam SMS Detection, Chatbot Development, 
             Employee Attrition Prediction, and a sustainable wheelchair clamp design using Altair software. 
-            My strengths lie in Python, Java, C, SQL, and front-end technologies like HTML/CSS.
+            My strengths lie in Python, Java, SQL, and front-end technologies like HTML/CSS.
           </p>
         </div>
       </div>

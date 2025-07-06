@@ -7,7 +7,7 @@ const Games: React.FC = () => {
       {/* Header */}
       <div>
         <h2 className="text-4xl font-bold mb-6 bg-gradient-to-r from-orange-400 to-pink-400 bg-clip-text text-transparent">
-          Interactive Games
+          Hey! Wanna Play game 🎮
         </h2>
         <p className="text-gray-400 text-lg">
           Take a break and enjoy some fun interactive games!

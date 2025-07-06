@@ -38,7 +38,7 @@ const Sidebar: React.FC<SidebarProps> = ({ isOpen, onToggle }) => {
             </div>
             
             <h1 className="text-2xl font-bold mb-2 bg-gradient-to-r from-orange-400 to-pink-400 bg-clip-text text-transparent">
-              Vishnu Makkena
+              Vishnu Vardhan Makkena
             </h1>
             <p className="text-gray-400 text-sm bg-gray-700/50 px-4 py-2 rounded-lg">
               AI/ML Developer
@@ -87,13 +87,13 @@ const Sidebar: React.FC<SidebarProps> = ({ isOpen, onToggle }) => {
           {/* Social Links */}
           <div className="flex justify-center gap-4">
             <a
-              href="https://github.com"
+              href="https://github.com/vishnumakkena3"
               className="p-3 bg-gray-700/30 rounded-lg hover:bg-orange-500/20 hover:text-orange-400 transition-all duration-300 hover:scale-110"
             >
               <Github size={20} />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://www.linkedin.com/in/vishnu-vardhan-makkena-2515aa282/"
               className="p-3 bg-gray-700/30 rounded-lg hover:bg-blue-500/20 hover:text-blue-400 transition-all duration-300 hover:scale-110"
             >
               <Linkedin size={20} />
