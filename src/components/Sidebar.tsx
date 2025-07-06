@@ -30,7 +30,7 @@ const Sidebar: React.FC<SidebarProps> = ({ isOpen, onToggle }) => {
           <div className="text-center mb-8">
             <div className="relative inline-block mb-6">
               <img
-                src="src/assets/images/vian.png"
+                src="public /IMG_8457.JPG"
                 alt="Vishnu Makkena"
                 className="w-24 h-24 rounded-2xl object-cover border-4 border-orange-500/30"
               />
